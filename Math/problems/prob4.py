@@ -1,3 +1,4 @@
+# 2894. Divisible and Non-divisible Sums Difference
 from itertools import count 
 def diffOfSums(n, m):
     num1 = 0 # sum of all integers 1, n that are not divisible by m

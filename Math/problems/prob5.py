@@ -1,3 +1,4 @@
+# 2160. Minimum Sum of Four Digit Number After Splitting Digits
 def minimumSum(num):
     nums = sorted([x for x in str(num)])
     pairs = []
