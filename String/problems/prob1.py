@@ -1,3 +1,4 @@
+# 2942. Find Words Containing Character
 def findWordsContaining(words, x):
     index = []
 

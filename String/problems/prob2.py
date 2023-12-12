@@ -1,3 +1,4 @@
+# 1678. Goal Parser Interpretation
 """ def interpret(command):
     command = command.replace("()", "o")
     command = command.replace("(", "")
